@@ -1,0 +1,22 @@
+[
+    {
+        "ID": "de7ce91d-9286-4944-bdd7-6a43aa29d342",
+        "CountryISO": "CH",
+        "Country": "Switzerland",
+        "Continent": "Europe",
+        "Population": 8740471,
+        "PopulationDensity": 214.243,
+        "MedianAge": 43.1,
+        "Aged65Older": 18.436,
+        "Aged70Older": 12.644,
+        "ExtremePoverty": 0,
+        "GdpPerCapita": 57410.166,
+        "CvdDeathRate": 99.739,
+        "DiabetesPrevalence": 5.59,
+        "HandwashingFacilities": 0,
+        "HospitalBedsPerThousand": 4.53,
+        "LifeExpectancy": 83.78,
+        "FemaleSmokers": 0,
+        "MaleSmokers": 0
+    }
+]

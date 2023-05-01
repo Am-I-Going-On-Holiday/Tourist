@@ -1,0 +1,293 @@
+{
+    "Country": {
+        "ID": "6663d932-3e27-4a32-961c-c4dea1b9e4b7",
+        "CountryCode": "CH",
+        "Country": "Switzerland",
+        "Province": "",
+        "City": "",
+        "CityCode": "",
+        "Lat": "46.82",
+        "Lon": "8.23",
+        "Timestamp": "2023-03-09T00:00:00Z"
+    },
+    "Recommendation": "Level 0: No Restrictions",
+    "Level": {
+        "ID": "8f78f528-5789-4350-b25e-b6a4eb6f7126",
+        "CountryCode": "CH",
+        "Level": 0,
+        "LevelDesc": "Level 0: No Restrictions",
+        "Date": "2022-07-24T00:00:00Z"
+    },
+    "Notes": [
+        {
+            "ID": "28d6972c-1eaa-48ea-9966-49b85551012e",
+            "CountryCode": "CH",
+            "Note": "No evidence of policy change. There are several restrictions for travelers to Switzerland. Those tourists that come from areas without variants of concern that have not been vaccinated are required to present a negative test but are not subject to quarantine. Those unvaccinated who come from higher-risk areas must present a negative test and quarantine once they arrive. It is important to note, however, that there are no countries that are considered areas of concern by the Swiss authorities.     Those unvaccinated that come from high-risk areas without a valid visa and without meeting any of the travel requirements imposed by the Swiss government cannot enter the country. Some of these requirements are having a Swiss resident permit, A Schengen country resident permit, or a cross-border permit.     Those that are either unvaccinated or unable to show evidence of recovery from Covid will have to present proof of a negative PCR test (not older than 72 hours) or rapid antigen test (not older than 48 hours).     Link:  http://web.archive.org/web/20210818033658/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html    http://web.archive.org/web/20210820025254/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/liste.html  ",
+            "Date": "2021-08-28T00:00:00Z"
+        },
+        {
+            "ID": "ff9c1657-a828-416a-b236-e7d6abdc2ef5",
+            "CountryCode": "CH",
+            "Note": "No policy change.   There are several restrictions for travelers to Switzerland. Those tourists that come from areas without variants of concern that have not been vaccinated are required to present a negative test but are not subject to quarantine. Those unvaccinated who come from higher-risk areas must present a negative test and quarantine once they arrive.     Those unvaccinated that come from high-risk areas without a valid visa and without meeting any of the travel requirements imposed by the Swiss government cannot enter the country. Some of these requirements are having a Swiss resident permit, A Schengen country resident permit, or a cross-border permit.     Link:  http://web.archive.org/web/20210816075829/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html",
+            "Date": "2021-08-14T00:00:00Z"
+        },
+        {
+            "ID": "f99f7ab7-72bc-4e49-8e67-6f814b15c16e",
+            "CountryCode": "CH",
+            "Note": "No policy change.   There are several restrictions for travelers to Switzerland. Those tourists that come from areas without variants of concern that have not been vaccinated are required to present a negative test but are not subject to quarantine. Those unvaccinated who come from higher-risk areas must present a negative test and quarantine once they arrive.     Those unvaccinated that come from high-risk areas without a valid visa and without meeting any of the travel requirements imposed by the Swiss government cannot enter the country. Some of these requirements are having a Swiss resident permit, A Schengen country resident permit, or a cross-border permit.     Link:  http://web.archive.org/web/20210806101552/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html",
+            "Date": "2021-08-06T00:00:00Z"
+        },
+        {
+            "ID": "426d5fb3-d8bd-4619-8dc0-b3f06f0272e7",
+            "CountryCode": "CH",
+            "Note": "No policy change.   There are several restrictions for travelers to Switzerland. Those tourists that come from areas without variants of concern that have not been vaccinated are required to present a negative test but are not subject to quarantine. Those unvaccinated who come from higher-risk areas must present a negative test and quarantine once they arrive.     Those unvaccinated that come from high-risk areas without a valid visa and without meeting any of the travel requirements imposed by the Swiss government cannot enter the country. Some of these requirements are having a Swiss resident permit, A Schengen country resident permit, or a cross-border permit.     Link:  http://web.archive.org/web/20210724100159/https://www.sem.admin.ch/sem/en/home/sem/aktuell/faq-einreiseverweigerung.html  ",
+            "Date": "2021-07-27T00:00:00Z"
+        },
+        {
+            "ID": "eb8c5e58-5f38-4887-9de3-0807b757280f",
+            "CountryCode": "CH",
+            "Note": "There are several restrictions for travelers to Switzerland. Those tourists that come from areas without variants of concern that have not been vaccinated are required to present a negative test but are not subject to quarantine. Those unvaccinated who come from higher-risk areas must present a negative test and quarantine once they arrive.     Those unvaccinated that come from high-risk areas without a valid visa and without meeting any of the travel requirements imposed by the Swiss government cannot enter the country. Some of these requirements are having a Swiss resident permit, A Schengen country resident permit, or a cross-border permit.     Link:  http://web.archive.org/web/20210724100159/https://www.sem.admin.ch/sem/en/home/sem/aktuell/faq-einreiseverweigerung.html",
+            "Date": "2021-07-21T00:00:00Z"
+        },
+        {
+            "ID": "0c3457a0-5df8-44a8-89a8-b3261c609c09",
+            "CountryCode": "CH",
+            "Note": "Ban on entry for high risk countries still applies.     But, as of June 26: “Anyone who can prove that they have been fully vaccinated can once again enter Switzerland from a third country, i.e. a country outside the Schengen area. Furthermore, people entering Switzerland from the Schengen area are no longer required to quarantine. Only those who arrive in Switzerland by plane are still required to take a test, but even this requirement does not apply to persons who have been fully vaccinated or who have recovered from COVID-19.”    Please see:   https://web.archive.org/web/20210702163129/https://www.sem.admin.ch/sem/en/home.html",
+            "Date": "2021-07-03T00:00:00Z"
+        },
+        {
+            "ID": "24e7c348-231b-4328-b426-a7ecfcb7134d",
+            "CountryCode": "CH",
+            "Note": "Ban on entry for high risk countries still applies.     But, as of June 26: “Anyone who can prove that they have been fully vaccinated can once again enter Switzerland from a third country, i.e. a country outside the Schengen area. Furthermore, people entering Switzerland from the Schengen area are no longer required to quarantine. Only those who arrive in Switzerland by plane are still required to take a test, but even this requirement does not apply to persons who have been fully vaccinated or who have recovered from COVID-19.”    Please see:   https://web.archive.org/web/20210702163129/https://www.sem.admin.ch/sem/en/home.html",
+            "Date": "2021-06-26T00:00:00Z"
+        },
+        {
+            "ID": "d18b4956-cc73-4f77-ab82-04c0807a55fe",
+            "CountryCode": "CH",
+            "Note": "Ban on entry for high risk countries still applies. “Persons who do not have rights of free movement will not be permitted to enter Switzerland from a high-risk country for stays of less than 90 days that do not require authorisation, other than in cases of special necessity.”    An easing of restrictions could begin on June 28, if so, it will be announced on June 23 according to the Federal Council.   “The Confederation is currently examining whether and how, in view of the improved epidemiological situation, the entry conditions for persons from third countries may be relaxed. As a Schengen-associated state, the Confederation coordinates its entry regulations with the EU. The Federal Council will provide information on this before the end of June.”    Please see:   https://web.archive.org/web/20210625153002/https://www.sem.admin.ch/sem/en/home/sem/aktuell/entry-restrictions-to-third-countries.html",
+            "Date": "2021-06-19T00:00:00Z"
+        },
+        {
+            "ID": "6dae87d3-666e-42a4-aec7-5a686d26a61b",
+            "CountryCode": "CH",
+            "Note": "Ban on entry for high risk countries still applies. “Persons who do not have rights of free movement will not be permitted to enter Switzerland from a high-risk country for stays of less than 90 days that do not require authorisation, other than in cases of special necessity.”    An easing of restrictions is expected on June 28 ; if so, it will be announced on June 23 according to the Federal Council.     Please see:   https://web.archive.org/web/20210618141131/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html    https://web.archive.org/web/20210618141458/https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/liste.html    https://web.archive.org/web/20210618142230/https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-83938.html",
+            "Date": "2021-06-11T00:00:00Z"
+        },
+        {
+            "ID": "592f5191-2c4d-4c81-907e-754577d0a90e",
+            "CountryCode": "CH",
+            "Note": "Ban on entry for high risk countries still applies. “Persons who do not have rights of free movement will not be permitted to enter Switzerland from a high-risk country for stays of less than 90 days that do not require authorisation, other than in cases of special necessity.”    Please see:   https://web.archive.org/web/20210610074306/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html    https://web.archive.org/web/20210610075027/https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/liste.html",
+            "Date": "2021-06-05T00:00:00Z"
+        },
+        {
+            "ID": "4a5af7a1-33c0-4068-b545-563ea933eedd",
+            "CountryCode": "CH",
+            "Note": "Ban on entry for high risk countries still applies. “Persons who do not have rights of free movement will not be permitted to enter Switzerland from a high-risk country for stays of less than 90 days that do not require authorisation, other than in cases of special necessity.”    Please see:   https://web.archive.org/web/20210603192337/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html      https://web.archive.org/web/20210601051223/https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/liste.html",
+            "Date": "2021-05-31T00:00:00Z"
+        },
+        {
+            "ID": "22a754ae-fe32-4f8f-a209-d84de84c6407",
+            "CountryCode": "CH",
+            "Note": "Ban on entry for high risk countries still applies. “Persons who do not have rights of free movement will not be permitted to enter Switzerland from a high-risk country for stays of less than 90 days that do not require authorisation, other than in cases of special necessity.”    Please see:   https://web.archive.org/web/20210526125002/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html    https://web.archive.org/web/20210526125923/https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/liste.html",
+            "Date": "2021-05-21T00:00:00Z"
+        },
+        {
+            "ID": "be82a3f4-f754-4b6a-ac4e-6eb4879a9727",
+            "CountryCode": "CH",
+            "Note": "Ban on entry for high risk countries still applies. “Persons who do not have rights of free movement will not be permitted to enter Switzerland from a high-risk country for stays of less than 90 days that do not require authorisation, other than in cases of special necessity.”    Please see: https://web.archive.org/web/20210520200506/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html",
+            "Date": "2021-05-14T00:00:00Z"
+        },
+        {
+            "ID": "9554c5af-5bd3-4041-be4e-3f26cc2ceaf3",
+            "CountryCode": "CH",
+            "Note": "Ban on entry for high risk countries still applies. “Persons who do not have rights of free movement will not be permitted to enter Switzerland from a high-risk country for stays of less than 90 days that do not require authorisation, other than in cases of special necessity.”    Please see:   https://web.archive.org/web/20210506072054/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html    https://web.archive.org/web/20210513141234/https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/liste.html",
+            "Date": "2021-05-07T00:00:00Z"
+        },
+        {
+            "ID": "28ae3bc5-7aa6-4c1a-acb8-8fc595194706",
+            "CountryCode": "CH",
+            "Note": "Ban on entry for high risk countries still applies. “Persons who do not have rights of free movement will not be permitted to enter Switzerland from a high-risk country for stays of less than 90 days that do not require authorisation, other than in cases of special necessity.”    Please see:   https://web.archive.org/web/20210506072054/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html    https://web.archive.org/web/20210506072454/https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/liste.html",
+            "Date": "2021-04-29T00:00:00Z"
+        },
+        {
+            "ID": "33830fa7-d299-4e16-95cc-58ef161e16fa",
+            "CountryCode": "CH",
+            "Note": "Switzerland has added India to its list of countries at high risk of Covid-19 on April 27.    Please see:   https://web.archive.org/web/20210428125803/https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/liste.html#-1701760666",
+            "Date": "2021-04-27T00:00:00Z"
+        },
+        {
+            "ID": "40c6c866-db0a-4050-a87d-d309354fe69f",
+            "CountryCode": "CH",
+            "Note": "Ban on entry for high risk countries still applies. “Persons who do not have rights of free movement will not be permitted to enter Switzerland from a high-risk country for stays of less than 90 days that do not require authorisation, other than in cases of special necessity.”    Please see:   https://web.archive.org/web/20210428125333/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html    https://web.archive.org/web/20210428125803/https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/liste.html#-1701760666",
+            "Date": "2021-04-24T00:00:00Z"
+        },
+        {
+            "ID": "d4691fb1-df33-4778-8312-fb15a54b9530",
+            "CountryCode": "CH",
+            "Note": "No evidence of a policy change: ban on entry for high risk countries still applies. “Persons who do not have rights of free movement will not be permitted to enter Switzerland from a high-risk country for stays of less than 90 days that do not require authorisation, other than in cases of special necessity.”     https://web.archive.org/web/20210423082840/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html",
+            "Date": "2021-04-15T00:00:00Z"
+        },
+        {
+            "ID": "c8709a4e-bb67-43e5-b7d9-af9d99ed554a",
+            "CountryCode": "CH",
+            "Note": "No evidence of a policy change: ban on entry for high risk countries still applies. “Persons who do not have rights of free movement will not be permitted to enter Switzerland from a high-risk country for stays of less than 90 days that do not require authorisation, other than in cases of special necessity.”     https://web.archive.org/web/20210410220454/https://www.sem.admin.ch/sem/en/home/sem/aktuell/entry-restrictions-to-third-countries.html",
+            "Date": "2021-04-10T00:00:00Z"
+        },
+        {
+            "ID": "d0530467-7cfd-4a86-96b2-1f90f9eb01c1",
+            "CountryCode": "CH",
+            "Note": "No evidence of a policy change: ban on entry for high risk countries still applies.    http://web.archive.org/web/20210409131655/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/liste.html",
+            "Date": "2021-03-29T00:00:00Z"
+        },
+        {
+            "ID": "a7ef8e4d-4b28-4a11-af8d-e20ddfc6c8a4",
+            "CountryCode": "CH",
+            "Note": "US and UK removed from quarantine list starting March 25: http://web.archive.org/web/20210328192827/https://www.thelocal.com/20210324/breaking-switzerland-to-remove-united-states-and-united-kingdom-from-quarantine-list/  However, ban on entry from high risk countries still applies - \"A third country citizen may not enter Switzerland from a high-risk country, even if they travel in transit through a country that is not on the high-risk list.\" http://web.archive.org/web/20210328193152/https://www.sem.admin.ch/sem/en/home/sem/aktuell/entry-restrictions-to-third-countries.html  ",
+            "Date": "2021-03-25T00:00:00Z"
+        },
+        {
+            "ID": "8798dbf2-e20e-4bd2-a4af-72fe643845de",
+            "CountryCode": "CH",
+            "Note": "Still current     https://web.archive.org/web/20210313081904/https://www.sem.admin.ch/sem/en/home/sem/aktuell/entry-restrictions-to-third-countries.html",
+            "Date": "2021-03-07T00:00:00Z"
+        },
+        {
+            "ID": "91d6ead5-1c28-4772-add3-611ec1184b0d",
+            "CountryCode": "CH",
+            "Note": "Still current     https://web.archive.org/save/https://www.sem.admin.ch/sem/en/home/sem/aktuell/entry-restrictions-to-third-countries.html",
+            "Date": "2021-03-01T00:00:00Z"
+        },
+        {
+            "ID": "bb3cf34b-71fd-4412-a03e-bedcb48c1637",
+            "CountryCode": "CH",
+            "Note": "Still current: https://archive.is/97wKW  Edit: people from high risk countries are not permitted to enter even if they travel through a non-high risk country",
+            "Date": "2021-02-22T00:00:00Z"
+        },
+        {
+            "ID": "ef369ec2-2092-4ddb-9a06-08b58b306e8f",
+            "CountryCode": "CH",
+            "Note": "Still current    https://web.archive.org/web/20210221082426/https://www.sem.admin.ch/sem/en/home/sem/aktuell/entry-restrictions-to-third-countries.html",
+            "Date": "2021-02-15T00:00:00Z"
+        },
+        {
+            "ID": "b2564ccb-337b-4826-bde9-2f0bf9c8502d",
+            "CountryCode": "CH",
+            "Note": "Still current http://web.archive.org/web/20210213115336/https://www.sem.admin.ch/sem/en/home/sem/aktuell/entry-restrictions-to-third-countries.html",
+            "Date": "2021-02-06T00:00:00Z"
+        },
+        {
+            "ID": "b5a79d73-3c4a-47cc-81f8-b55011c5a37b",
+            "CountryCode": "CH",
+            "Note": "Individuals from the Schengen area and EU as well as certain other countries can enter. Ban to enter for people from all other countries except for special circumstances.    No entry allowed from UK and South Africa to contain the spread of new variants of the virus.    https://web.archive.org/save/https://www.sem.admin.ch/sem/en/home/sem/aktuell/entry-restrictions-to-third-countries.html",
+            "Date": "2021-01-31T00:00:00Z"
+        },
+        {
+            "ID": "06949768-ba58-4242-84a7-1e078151c74b",
+            "CountryCode": "CH",
+            "Note": "Individuals from the Schengen area and EU as well as certain other countries can enter. Ban to enter for people from all other countries except for special circumstances.    No entry allowed from UK and South Africa to contain the spread of new variants of the virus.    https://web.archive.org/web/20210119115107/https://www.sem.admin.ch/sem/de/home/sem/aktuell/einreisebeschraenkungen-drittstaaten.html  ",
+            "Date": "2021-01-16T00:00:00Z"
+        },
+        {
+            "ID": "55faf4f2-f9d5-4ad6-99a2-9c7ed3337357",
+            "CountryCode": "CH",
+            "Note": "No change since last entry",
+            "Date": "2020-12-01T00:00:00Z"
+        },
+        {
+            "ID": "75e71578-2fa0-492a-a7eb-4f7da60cd403",
+            "CountryCode": "CH",
+            "Note": "No change in policy.",
+            "Date": "2020-11-24T00:00:00Z"
+        },
+        {
+            "ID": "49a733ab-3691-421a-99eb-db19f4566afd",
+            "CountryCode": "CH",
+            "Note": "Three countries (France, Belgium, and Armenia) were removed from the quarantine list. Ban still applies to high-risk countries.    https://web.archive.org/web/20201124025949/https://www.thelocal.ch/20201123/update-what-is-new-in-switzerland-from-monday",
+            "Date": "2020-11-23T00:00:00Z"
+        },
+        {
+            "ID": "587818c1-cd31-49f7-ad3a-1c13a659a173",
+            "CountryCode": "CH",
+            "Note": "As incidence rates in Switzerland are now above average compared with the rest of Europe, the threshold (for countries and areas to be added to the quarantine list) were raised. Under the amended provisions, only countries and areas with an incidence rate that is 60 higher than that in Switzerland will now be placed on the quarantine list.",
+            "Date": "2020-10-29T00:00:00Z"
+        },
+        {
+            "ID": "9887e5e3-fe27-4239-ba0c-49d4085c943c",
+            "CountryCode": "CH",
+            "Note": "As of, June 15, Switzerland has lifted all COVID-19 related entry restrictions for travelers from other Schengen countries. The Swiss government has not announced a date when Switzerland will lift the current entry restrictions for U.S. citizens.    This is the updated information at the US embassy site. So, I am coding it to Ban.    https://web.archive.org/web/20201028171227/https://ch.usembassy.gov/covid-19-info/",
+            "Date": "2020-10-20T00:00:00Z"
+        },
+        {
+            "ID": "b5ec865b-28b2-4c9d-8d6f-0e41b1002420",
+            "CountryCode": "CH",
+            "Note": "People arriving from a continuously updated list of countries are required to go into 10 days quarantine.  https://archive.vn/LNnbe    Cannot find any evidence that arrivals from some regions are banned.  ",
+            "Date": "2020-10-10T00:00:00Z"
+        },
+        {
+            "ID": "6553ff98-6c52-4510-9c4e-6620805a8140",
+            "CountryCode": "CH",
+            "Note": " the Switzerland has largely followed the EU Council recommendations regarding entry requirements of non-EU citizens. Third country nationals who do not have rights of free movement and do not hold a valid permit allowing them to live or work in Switzerland will be refused entry.  ",
+            "Date": "2020-09-29T00:00:00Z"
+        },
+        {
+            "ID": "5b3b47d2-a880-4012-a3e1-ef50c3a03a53",
+            "CountryCode": "CH",
+            "Note": "The overall policy stays at 3-ban as \"citizens travelling from most non-Schengen countries, including the US, may not enter Switzerland except in exceptional cases.\"  (http://web.archive.org/web/20200808084308/https://www.swissinfo.ch/eng/covid-19_coronavirus--the-situation-in-switzerland/45592192)    A list of non-Schengen countries not affected by this ban as of 8 August 2020 can be found here: http://web.archive.org/web/20200808084632/https://www.admin.ch/opc/en/classified-compilation/20201773/index.html    Citizens and residents of Switzerland may always enter the country. Those who do enter Switzerland from any of 46 \"high-risk\" countries (as of 8 August 2020: http://web.archive.org/web/20200808084913/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html) must undergo a ten-day quarantine or face a fine.    ",
+            "Date": "2020-08-08T00:00:00Z"
+        },
+        {
+            "ID": "e65dac1e-9361-4eab-820b-caf7f4a15294",
+            "CountryCode": "CH",
+            "Note": "\"Coronavirus: Life partners from third countries can enter the country from August 3, 2020\"  (http://web.archive.org/web/20200809072425/https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-79949.html)    A ban on entry from many countries stays in effect (see 8 August 2020 entry for overview)",
+            "Date": "2020-08-03T00:00:00Z"
+        },
+        {
+            "ID": "0c3530f5-fe2c-4dde-b3e0-063ce884527a",
+            "CountryCode": "CH",
+            "Note": "No change: \"The ban on entry applies to foreign nationals who want to travel to Switzerland from a high-risk country for a stay here of up to three months, without working, that would normally not require a permit – i.e. primarily tourists, persons visiting family or friends, or on business. High-risk countries are any countries that are not in the Schengen area.\"    (http://web.archive.org/web/20200716090536/https://www.sem.admin.ch/sem/en/home/aktuell/aktuell/faq-einreiseverweigerung.html)",
+            "Date": "2020-07-14T00:00:00Z"
+        },
+        {
+            "ID": "d5d3b855-6683-40a3-b80b-2f60c63b9761",
+            "CountryCode": "CH",
+            "Note": "\"Foreign nationals without rights of free movement who wish to enter Switzerland but do not fall within any of the categories of exceptions under the COVID-19 Ordinance are still subject to entry restrictions. It is likely that restrictions on entry from 15 specific third countries will be lifted from 20 July.\"    (http://web.archive.org/web/20200708232726/https://www.sem.admin.ch/sem/en/home.html)",
+            "Date": "2020-07-10T00:00:00Z"
+        },
+        {
+            "ID": "50047d9a-8524-45d7-93dd-280e581ddbda",
+            "CountryCode": "CH",
+            "Note": "As of 6 July 2020: \"In addition, travellers from certain regions will have to go into quarantine.\"  (this is on top of a ban for certain countries so that the overall assessment stays at 3-Ban)    (from http://web.archive.org/web/20200629235323/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html)",
+            "Date": "2020-07-06T00:00:00Z"
+        },
+        {
+            "ID": "793bc804-39c3-4f22-a42d-2bbec954ea5e",
+            "CountryCode": "CH",
+            "Note": "The federal government announced the following changes going into effect on 15 June 2020 (see http://web.archive.org/web/20200621201206/https://www.sem.admin.ch/sem/en/home.html)    \"From 15 June, border controls at all land and air borders between Switzerland and the other Schengen states will be lifted. From then, normal entry requirements will apply again:  to all citizens of a Schengen state  to persons with rights of free movement  to third-country nationals who do not require a visa who are already legally resident in the Schengen area\"    However: \"Foreign nationals without rights of free movement who wish to enter Switzerland but do not fall within any of the categories of exceptions under the  COVID-19 Ordinance are still subject to entry restrictions.\" whereby \"right of free movement\" is defined as \"EU/EFTA and UK citizens and their family members, irrespective of their nationality, have rights of free movement. Family members are defined as spouses and relatives in descending line (i.e. children and grandchildren, etc., including those of the spouse) who are under the age of 21 years or who are dependent, and dependent relatives of the person concerned or his or her spouse in ascending line (i.e. parents, grandparents). Different rules apply for students’ family members). Third-country nationals also have rights of free movement if they are posted to work in Switzerland for no more than 90 days by an employer based in the EU/EFTA, provided they have previously been living and working legally in an EU/EFTA member state for at least one year.\"    Therefore: despite the big change since 15 June 2020, the flag needs to be kept at \"3-Ban\" as some people who want to visit Switzerland but do not fall into the \"right of free movement description\" are still banned entry (e.g. tourists from outside of EU/EFTA/UK).  ",
+            "Date": "2020-06-15T00:00:00Z"
+        },
+        {
+            "ID": "ae3f2171-cb5f-48c5-add7-9718979e12fd",
+            "CountryCode": "CH",
+            "Note": "The Federal Council maintains ban with some measures relaxed:    \"After consultation with the Federal Department of Foreign Affairs, the Federal Department of Home Affairs (EDI) defines countries or regions that are referred to as a risk country or risk region. According to the ordinance of March 25, 2020, all countries and areas are currently risk countries or areas. The Principality of Liechtenstein is an exception.    All persons are denied entry to Switzerland, except from the Principality of Liechtenstein  Exceptions are possible, for example for people who live or work in Switzerland. Anyone wishing to enter despite a ban on entry must demonstrate that one of the exceptions has been met.    The measures have been relaxed since May 11, 2020. Applications submitted by EU / EFTA and third country workers before March 25 will be processed. Since then, family reunification with Switzerland has been possible again for Swiss and EU citizens. The border controls remain however.\"    http://web.archive.org/web/20200519024043/https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html",
+            "Date": "2020-05-11T00:00:00Z"
+        },
+        {
+            "ID": "d56cbc18-c0a2-43d3-a7ff-4c9290071002",
+            "CountryCode": "CH",
+            "Note": "Ban on all foreigners except for Liechtenstein: https://web.archive.org/web/20200326164311/https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html",
+            "Date": "2020-03-29T00:00:00Z"
+        },
+        {
+            "ID": "245c5eee-d45e-45e6-9e9e-70a52b94c0f0",
+            "CountryCode": "CH",
+            "Note": "\"As of 13 March, the Swiss authorities announced that entry into Switzerland from Italy will be not be permitted, with only limited exemptions for those transiting, Swiss citizens and Swiss resident permit holders, and those with “compelling reasons” to enter.\" https://web.archive.org/web/20200318152636/https://www.independent.co.uk/travel/news-and-advice/coronavirus-travel-advice-spain-france-switzerland-austria-slovenia-latest-a9389576.html",
+            "Date": "2020-03-13T00:00:00Z"
+        },
+        {
+            "ID": "2fa7b692-4126-4510-b384-e3b8abe2b709",
+            "CountryCode": "CH",
+            "Note": "\"As at Tuesday evening, March 10th, there have been no travel restrictions adopted anywhere in Switzerland.\"  https://web.archive.org/web/20200402205211/https://www.thelocal.ch/20200310/coronavirus-should-you-cancel-your-trip-to-or-from-switzerland",
+            "Date": "2020-03-10T00:00:00Z"
+        }
+    ]
+}
