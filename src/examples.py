@@ -22,10 +22,10 @@ if __name__ == "__main__":
     print(f"Restriction level: {restrictions['restriction_level']}")
     print(f"Restriction description: {restrictions['restriction_description']}")
 
-    # Get the total cases for Switzerland between 2020-01-01 and 2023-01-31
-    print(f"Total cases for Switzerland between 2020-01-01 and 2020-01-31: "
+    # Get the total cases for Switzerland between 2020-01-01 and 2023-03-31
+    print(f"Total cases for Switzerland between 2020-01-01 and 2020-03-31: "
           f"{client.format_number(client.get_total_cases('CH', '2020-01-01', '2020-03-31'))}")
 
-    # Get the total deaths for Switzerland between 2020-01-01 and 2023-01-31
-    print(f"Total deaths for Switzerland between 2020-01-01 and 2020-01-31: "
+    # Get the total deaths for Switzerland between 2020-01-01 and 2023-03-31
+    print(f"Total deaths for Switzerland between 2020-01-01 and 2020-03-31: "
           f"{client.format_number(client.get_total_deaths('CH', '2020-01-01', '2020-03-31'))}")
