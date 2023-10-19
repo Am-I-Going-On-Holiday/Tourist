@@ -23,7 +23,7 @@ import iso8601
 from requests import RequestException
 from urllib3.exceptions import InsecureRequestWarning
 
-""" Disable SSL Warnings """
+# Disable SSL Warnings
 requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
 
 
@@ -32,7 +32,7 @@ class Tourist:
         """
         Set access token and headers
         """
-        self.access_token = "REPLACE-ME"  # replace with your own access token
+        self.access_token = "REPLACE-ME"  # NOTE: Replace with your own access token
         self.headers = {
             'X-Access-Token': self.access_token,
             'User-Agent': 'TouristBot/1.1',
