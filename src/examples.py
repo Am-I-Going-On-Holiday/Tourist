@@ -18,7 +18,7 @@ if __name__ == "__main__":
     print(f"Last updated: {global_totals['timestamp']}")
 
     # Get border restrictions for Switzerland
-    restrictions = client.get_travel_restrictions("France")
+    restrictions = client.get_travel_restrictions("Switzerland")
     print(f"Restriction level: {restrictions['restriction_level']}")
     print(f"Restriction description: {restrictions['restriction_description']}")
 
